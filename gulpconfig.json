@@ -1,6 +1,6 @@
 {
   "browserSyncOptions" : {
-    "proxy": "localhost/wordpress/",
+    "proxy": "phc.loc",
     "notify": false
   },
   "browserSyncWatchFiles" : [
